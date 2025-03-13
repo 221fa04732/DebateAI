@@ -3,10 +3,9 @@ server:
 
 cognito:
   appClientId: 
-  appClientSecret: 
-  userPoolId:
-  region:
+  appClientSecret:  
+  userPoolId: 
+  region: 
 
 openai:
   gptApiKey: 
-  
